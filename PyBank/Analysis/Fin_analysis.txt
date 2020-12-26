@@ -1,0 +1,7 @@
+Financial Analysis of PyBank
+----------------------------
+Total Months  86
+Total 38382578
+Average -2315.12
+Greatest increase in profit  Feb-2012   1926159
+Greatest decrease in profit  Sep-2013   -2196167
